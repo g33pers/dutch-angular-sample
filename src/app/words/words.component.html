@@ -1,1 +1,37 @@
 <p>words works!</p>
+<p> (scrollable) table of user's wordlist including whether learned - in-progress or to learn, word strength, time sinc last seen, time 'til revision due - sortable by all, plus translation and search</p>
+<br/>
+virtual scroll / sort / striped
+<br/>
+with button to hear audio
+<p-table #dt [value]="words" styleClass="p-datatable-striped" [scrollable]="true" scrollHeight="250px"
+[virtualScroll]="true" [virtualRowHeight]="34" [globalFilterFields]="['word','translation']">
+    <ng-template pTemplate="caption">
+        
+        <div style="text-align: right">
+            <i class="pi pi-search" style="margin:4px 4px 0 0"></i>
+            <input type="text" pInputText size="50" placeholder="Global Filter" (input)="dt.filterGlobal($event.target.value, 'contains')" style="width:auto">
+        </div>
+    </ng-template>
+    <ng-template pTemplate="header">
+        <tr>
+            <th pSortableColumn="word">Word<p-sortIcon field="word"></p-sortIcon></th>
+            <th pSortableColumn="translation">Translation<p-sortIcon field="translation"></p-sortIcon></th>
+            <th>Learned</th>
+        </tr>
+    </ng-template>
+    <ng-template pTemplate="body" let-word>
+        <tr>
+            <td>{{ word.word }}</td>
+            <td>{{ word.translation }}</td>
+            <td>{{ word.learned }}</td>
+        </tr>
+    </ng-template>
+    <ng-template pTemplate="footer" let-columns="columns">
+        <tr>
+            <td *ngFor="let col of columns">
+                {{col.header}}
+            </td>
+        </tr>
+    </ng-template>
+</p-table>
