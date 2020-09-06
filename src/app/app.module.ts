@@ -1,5 +1,9 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { RouterModule } from '@angular/router';
+
+import { TabMenuModule } from 'primeng/tabmenu';
+import { CardModule } from 'primeng/card';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -14,7 +18,10 @@ import { WordsModule } from './words/words.module';
     BrowserModule,
     AppRoutingModule,
     AboutModule,
-    WordsModule
+    WordsModule,
+    TabMenuModule,
+    CardModule,
+    RouterModule
   ],
   providers: [],
   bootstrap: [AppComponent]
