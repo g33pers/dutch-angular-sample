@@ -1,0 +1,2501 @@
+[
+    {
+      "id": 0,
+      "translation": "Ik ben het",
+      "word": "It's me"
+    },
+    {
+      "id": 1,
+      "translation": "Het is een van mij",
+      "word": "It's one of mine"
+    },
+    {
+      "id": 2,
+      "translation": "Wat is het?",
+      "word": "What is it?"
+    },
+    {
+      "id": 3,
+      "translation": "Ik kan het",
+      "word": "I can do it"
+    },
+    {
+      "id": 4,
+      "translation": "Zo is het niet",
+      "word": "It is not so"
+    },
+    {
+      "id": 5,
+      "translation": "Wat is dat?",
+      "word": "What is it?"
+    },
+    {
+      "id": 6,
+      "translation": "Wat is dat?",
+      "word": "What's that?"
+    },
+    {
+      "id": 7,
+      "translation": "Ik weet het niet",
+      "word": "I don't know"
+    },
+    {
+      "id": 8,
+      "translation": "Ik weet het niet",
+      "word": "I dinnae ken"
+    },
+    {
+      "id": 9,
+      "translation": "Wat heb ik?",
+      "word": "What do I have?"
+    },
+    {
+      "id": 10,
+      "translation": "Ik weet niet wat dat is",
+      "word": "I don't know what it is"
+    },
+    {
+      "id": 11,
+      "translation": "Ik weet niet wat dat is",
+      "word": "I don't know what that is"
+    },
+    {
+      "id": 12,
+      "translation": "Hij weet het niet",
+      "word": "He does not know"
+    },
+    {
+      "id": 13,
+      "translation": "Dat is niet waar",
+      "word": "That's not true"
+    },
+    {
+      "id": 14,
+      "translation": "Dat is niet waar",
+      "word": "It is not so"
+    },
+    {
+      "id": 15,
+      "translation": "Dat is niet waar",
+      "word": "That is not true"
+    },
+    {
+      "id": 16,
+      "translation": "Ik wil het niet meer",
+      "word": "I don't want it anymore"
+    },
+    {
+      "id": 17,
+      "translation": "Het kan niet waar zijn",
+      "word": "It cannot be true"
+    },
+    {
+      "id": 18,
+      "translation": "Het kan niet waar zijn",
+      "word": "It can not be true"
+    },
+    {
+      "id": 19,
+      "translation": "Het kan niet waar zijn",
+      "word": "It can't be true"
+    },
+    {
+      "id": 20,
+      "translation": "Ik weet dat je weet dat ik het weet",
+      "word": "I know that you know that I know"
+    },
+    {
+      "id": 21,
+      "translation": "Ik weet niet waar het is",
+      "word": "I do not know where it is"
+    },
+    {
+      "id": 22,
+      "translation": "Je weet dat het waar is",
+      "word": "You know it's true"
+    },
+    {
+      "id": 23,
+      "translation": "Ik heb een boek",
+      "word": "I have a book"
+    },
+    {
+      "id": 24,
+      "translation": "Ik weet het nog niet",
+      "word": "I don't know yet"
+    },
+    {
+      "id": 25,
+      "translation": "Ik weet het nog niet",
+      "word": "I still don't know that"
+    },
+    {
+      "id": 26,
+      "translation": "Hij is niet mijn vader",
+      "word": "He's not my father"
+    },
+    {
+      "id": 27,
+      "translation": "Hij is mijn vader niet",
+      "word": "He's not my father"
+    },
+    {
+      "id": 28,
+      "translation": "Dat kan niet waar zijn!",
+      "word": "It can't be!"
+    },
+    {
+      "id": 29,
+      "translation": "Dat kan niet waar zijn",
+      "word": "That can't be true"
+    },
+    {
+      "id": 30,
+      "translation": "Dat kan niet waar zijn",
+      "word": "That cannot be true"
+    },
+    {
+      "id": 31,
+      "translation": "Dat kan niet waar zijn",
+      "word": "It cannot be true"
+    },
+    {
+      "id": 32,
+      "translation": "Dat kan niet waar zijn",
+      "word": "It can't be true"
+    },
+    {
+      "id": 33,
+      "translation": "Ik weet niet of ik het nog heb",
+      "word": "I don't know if I still have it"
+    },
+    {
+      "id": 34,
+      "translation": "Het boek is van mij",
+      "word": "The book is mine"
+    },
+    {
+      "id": 35,
+      "translation": "Maar ik wil niet",
+      "word": "But I don't want to"
+    },
+    {
+      "id": 36,
+      "translation": "Ik kan het niet met je eens zijn",
+      "word": "I can't agree with you"
+    },
+    {
+      "id": 37,
+      "translation": "Dat is het leven",
+      "word": "That's the way the cookie crumbles"
+    },
+    {
+      "id": 38,
+      "translation": "Dat is het leven",
+      "word": "That's life"
+    },
+    {
+      "id": 39,
+      "translation": "Ik hou van je",
+      "word": "I love you"
+    },
+    {
+      "id": 40,
+      "translation": "Ze is niet hier",
+      "word": "She's not here"
+    },
+    {
+      "id": 41,
+      "translation": "Ik hou van je!",
+      "word": "I love you!"
+    },
+    {
+      "id": 42,
+      "translation": "Ik ben in het huis",
+      "word": "I am in the house"
+    },
+    {
+      "id": 43,
+      "translation": "Ik ben in het huis",
+      "word": "I'm in the house"
+    },
+    {
+      "id": 44,
+      "translation": "Ik weet van waar hij is",
+      "word": "I know where he comes from"
+    },
+    {
+      "id": 45,
+      "translation": "Ik ben in de auto",
+      "word": "I'm in the car"
+    },
+    {
+      "id": 46,
+      "translation": "Je tijd is om",
+      "word": "Your time is over"
+    },
+    {
+      "id": 47,
+      "translation": "Ben ik de vader?",
+      "word": "Am I the father?"
+    },
+    {
+      "id": 48,
+      "translation": "We zijn er nog niet",
+      "word": "We're not there yet"
+    },
+    {
+      "id": 49,
+      "translation": "Ik weet niet of het waar is",
+      "word": "I don't know if it is true"
+    },
+    {
+      "id": 50,
+      "translation": "Het kan waar zijn of niet",
+      "word": "It may or may not be true"
+    },
+    {
+      "id": 51,
+      "translation": "Ik hou niet meer van je",
+      "word": "I no longer love you"
+    },
+    {
+      "id": 52,
+      "translation": "Ik heb dit boek niet",
+      "word": "I don't have this book"
+    },
+    {
+      "id": 53,
+      "translation": "Heb je een auto?",
+      "word": "Do you have a car?"
+    },
+    {
+      "id": 54,
+      "translation": "Heb je een auto?",
+      "word": "Have you got a car?"
+    },
+    {
+      "id": 55,
+      "translation": "Waar heb je het over?",
+      "word": "What are you talking about?"
+    },
+    {
+      "id": 56,
+      "translation": "Ik weet niet of hij het weet",
+      "word": "I don't know if he knows it"
+    },
+    {
+      "id": 57,
+      "translation": "Ik denk dat het waar is",
+      "word": "I think it's true"
+    },
+    {
+      "id": 58,
+      "translation": "Ik denk dat het waar is",
+      "word": "I think it true"
+    },
+    {
+      "id": 59,
+      "translation": "Ik denk dat het waar is",
+      "word": "I think that it's true"
+    },
+    {
+      "id": 60,
+      "translation": "Dit is een boek",
+      "word": "This is a book"
+    },
+    {
+      "id": 61,
+      "translation": "Dat is zijn auto",
+      "word": "That is his car"
+    },
+    {
+      "id": 62,
+      "translation": "Dit is een boek",
+      "word": "That's a book"
+    },
+    {
+      "id": 63,
+      "translation": "Het is dit boek",
+      "word": "It's this book"
+    },
+    {
+      "id": 64,
+      "translation": "Ga je dan niet?",
+      "word": "Won't you go?"
+    },
+    {
+      "id": 65,
+      "translation": "Ik heb een auto",
+      "word": "I have a car"
+    },
+    {
+      "id": 66,
+      "translation": "Hou je van me?",
+      "word": "Do you love me?"
+    },
+    {
+      "id": 67,
+      "translation": "Ze is nog niet hier",
+      "word": "She is not here yet"
+    },
+    {
+      "id": 68,
+      "translation": "Dit kan niet waar zijn",
+      "word": "This can't be true"
+    },
+    {
+      "id": 69,
+      "translation": "Ik weet niet waar ze zijn",
+      "word": "I don't know where they are"
+    },
+    {
+      "id": 70,
+      "translation": "Ik ben niet van gisteren",
+      "word": "I was not born yesterday"
+    },
+    {
+      "id": 71,
+      "translation": "Dat huis is van mij",
+      "word": "That house is mine"
+    },
+    {
+      "id": 72,
+      "translation": "Wat goed is voor u, is goed voor mij",
+      "word": "What is good for you, is good for me"
+    },
+    {
+      "id": 73,
+      "translation": "En waar is dat goed voor?",
+      "word": "What good will that do?"
+    },
+    {
+      "id": 74,
+      "translation": "Waar ben je?",
+      "word": "Where are you?"
+    },
+    {
+      "id": 75,
+      "translation": "Waar wil je dat voor hebben?",
+      "word": "What do you want that for?"
+    },
+    {
+      "id": 76,
+      "translation": "Ik hou niet meer van haar",
+      "word": "I don't love her anymore"
+    },
+    {
+      "id": 77,
+      "translation": "Dit is mijn boek",
+      "word": "This is my book"
+    },
+    {
+      "id": 78,
+      "translation": "Ik heb geen tijd voor u",
+      "word": "I don't have time for you"
+    },
+    {
+      "id": 79,
+      "translation": "Ik hou van haar",
+      "word": "I love her"
+    },
+    {
+      "id": 80,
+      "translation": "Ik hou niet meer van hem",
+      "word": "I do not love him any longer"
+    },
+    {
+      "id": 81,
+      "translation": "Ik hou niet meer van hem",
+      "word": "I no longer love him"
+    },
+    {
+      "id": 82,
+      "translation": "Ik weet niet of ik tijd heb",
+      "word": "I don't know if I have the time"
+    },
+    {
+      "id": 83,
+      "translation": "Ik weet niet of ik tijd heb",
+      "word": "I don't know if I'll have time"
+    },
+    {
+      "id": 84,
+      "translation": "Ik kon het niet meer aan",
+      "word": "I couldn't take it anymore"
+    },
+    {
+      "id": 85,
+      "translation": "Het is al te laat",
+      "word": "It's already too late"
+    },
+    {
+      "id": 86,
+      "translation": "Dit boek is van mij",
+      "word": "This book is mine"
+    },
+    {
+      "id": 87,
+      "translation": "Hij heeft een auto",
+      "word": "He has a car"
+    },
+    {
+      "id": 88,
+      "translation": "Ik ben te laat, of niet?",
+      "word": "I'm late, aren't I?"
+    },
+    {
+      "id": 89,
+      "translation": "Ik heb geen tijd",
+      "word": "I have no time"
+    },
+    {
+      "id": 90,
+      "translation": "Ik heb geen tijd",
+      "word": "I don't have time"
+    },
+    {
+      "id": 91,
+      "translation": "Dit is mijn vader",
+      "word": "This is my father"
+    },
+    {
+      "id": 92,
+      "translation": "Het huis bij het meer is van mij",
+      "word": "The house by the lake is mine"
+    },
+    {
+      "id": 93,
+      "translation": "Ze zijn er al",
+      "word": "They're already here"
+    },
+    {
+      "id": 94,
+      "translation": "Weet hij dat je van hem houdt?",
+      "word": "Does he know that you love him?"
+    },
+    {
+      "id": 95,
+      "translation": "Ik kan zo niet leven",
+      "word": "I can't live that kind of life"
+    },
+    {
+      "id": 96,
+      "translation": "Weet je nog?",
+      "word": "Do you remember?"
+    },
+    {
+      "id": 97,
+      "translation": "Het is laat",
+      "word": "It's late"
+    },
+    {
+      "id": 98,
+      "translation": "Het is een uur",
+      "word": "It's one o'clock"
+    },
+    {
+      "id": 99,
+      "translation": "Hoe weet ge dat het van hem is?",
+      "word": "How do you know that it's his?"
+    },
+    {
+      "id": 100,
+      "translation": "Weet ik veel!",
+      "word": "How should I know?"
+    },
+    {
+      "id": 101,
+      "translation": "Ik heb met je te doen",
+      "word": "I feel for you"
+    },
+    {
+      "id": 102,
+      "translation": "Hier zijn we dan",
+      "word": "Here we are"
+    },
+    {
+      "id": 103,
+      "translation": "Waar is het boek?",
+      "word": "Where is the book?"
+    },
+    {
+      "id": 104,
+      "translation": "Ik wil het ook!",
+      "word": "I also want it!"
+    },
+    {
+      "id": 105,
+      "translation": "Is er een kamer voor mij?",
+      "word": "Is there any room for me?"
+    },
+    {
+      "id": 106,
+      "translation": "Ik heb niets om voor te leven",
+      "word": "I have nothing to live for"
+    },
+    {
+      "id": 107,
+      "translation": "Dit is haar boek",
+      "word": "This is her book"
+    },
+    {
+      "id": 108,
+      "translation": "Hou je van mij?",
+      "word": "Do you love me?"
+    },
+    {
+      "id": 109,
+      "translation": "Ik ben het met hem eens",
+      "word": "I agree with him"
+    },
+    {
+      "id": 110,
+      "translation": "Ik denk dat ik het niet met je eens bent",
+      "word": "I guess I don't agree with you"
+    },
+    {
+      "id": 111,
+      "translation": "Het is van mijn broer",
+      "word": "It's my brother's"
+    },
+    {
+      "id": 112,
+      "translation": "Ik wil veel meer",
+      "word": "I want a lot more"
+    },
+    {
+      "id": 113,
+      "translation": "Dit is zijn huis",
+      "word": "This is his house"
+    },
+    {
+      "id": 114,
+      "translation": "Ik wil veel meer",
+      "word": "I want much more"
+    },
+    {
+      "id": 115,
+      "translation": "Hij is altijd op tijd",
+      "word": "He's always on time"
+    },
+    {
+      "id": 116,
+      "translation": "Ik hou heel veel van je",
+      "word": "I love you very much"
+    },
+    {
+      "id": 117,
+      "translation": "Hij is al een man",
+      "word": "He's already a man"
+    },
+    {
+      "id": 118,
+      "translation": "Ik heb niet veel geld",
+      "word": "I don't have much money"
+    },
+    {
+      "id": 119,
+      "translation": "Waar is je vader?",
+      "word": "Where is your father?"
+    },
+    {
+      "id": 120,
+      "translation": "Ik denk dat je daar niet was",
+      "word": "I guess you weren't there"
+    },
+    {
+      "id": 121,
+      "translation": "Het is tijd om te gaan voor ons",
+      "word": "It's time for us to go"
+    },
+    {
+      "id": 122,
+      "translation": "Dat is alles wat ik weet",
+      "word": "That's all I know"
+    },
+    {
+      "id": 123,
+      "translation": "Dit zijn mijn boeken, dat zijn die van hem",
+      "word": "These are my books, those are his"
+    },
+    {
+      "id": 124,
+      "translation": "Ik wil naar huis",
+      "word": "I want to go home"
+    },
+    {
+      "id": 125,
+      "translation": "Dit is mijn auto",
+      "word": "This is my car"
+    },
+    {
+      "id": 126,
+      "translation": "Dit is mijn auto",
+      "word": "This car is mine"
+    },
+    {
+      "id": 127,
+      "translation": "Wat denk je dat ik aan het doen was?",
+      "word": "What do you think I've been doing?"
+    },
+    {
+      "id": 128,
+      "translation": "Het is te groot",
+      "word": "It's too big"
+    },
+    {
+      "id": 129,
+      "translation": "Dat is alles wat ik over hem weet",
+      "word": "This is all that I know about him"
+    },
+    {
+      "id": 130,
+      "translation": "Wat vroeg hij je?",
+      "word": "What did he ask you?"
+    },
+    {
+      "id": 131,
+      "translation": "Het is tijd om naar huis te gaan",
+      "word": "It's time to go home"
+    },
+    {
+      "id": 132,
+      "translation": "Het is al laat",
+      "word": "It's already late"
+    },
+    {
+      "id": 133,
+      "translation": "Hij weet niet wie ik ben",
+      "word": "He doesn't know who I am"
+    },
+    {
+      "id": 134,
+      "translation": "Dat gaat je niets aan",
+      "word": "It's none of your business"
+    },
+    {
+      "id": 135,
+      "translation": "Ik heb dit boek al uit",
+      "word": "I have already finished this book"
+    },
+    {
+      "id": 136,
+      "translation": "Morgen kan het mij zijn",
+      "word": "Tomorrow it might be me"
+    },
+    {
+      "id": 137,
+      "translation": "Over wie heb je het?",
+      "word": "To whom are you referring?"
+    },
+    {
+      "id": 138,
+      "translation": "Over wie heb je het?",
+      "word": "Who are you talking about?"
+    },
+    {
+      "id": 139,
+      "translation": "Het is laat, ik moet gaan",
+      "word": "It's late, I have to go"
+    },
+    {
+      "id": 140,
+      "translation": "Ik weet van niets",
+      "word": "I don't know anything"
+    },
+    {
+      "id": 141,
+      "translation": "Ze kan hier zo vroeg niet zijn",
+      "word": "She cannot be here so early"
+    },
+    {
+      "id": 142,
+      "translation": "Ik heb te veel te doen",
+      "word": "I've got too much to do"
+    },
+    {
+      "id": 143,
+      "translation": "Ik ga waar ik wil",
+      "word": "I go where I please"
+    },
+    {
+      "id": 144,
+      "translation": "Het is al tijd om naar huis te gaan",
+      "word": "It's already time to go home"
+    },
+    {
+      "id": 145,
+      "translation": "Heb je veel geld bij je?",
+      "word": "Do you have much money with you?"
+    },
+    {
+      "id": 146,
+      "translation": "Het is niet zo erg als het lijkt",
+      "word": "It's not as bad as it seems"
+    },
+    {
+      "id": 147,
+      "translation": "Het is de grote",
+      "word": "It's the big one"
+    },
+    {
+      "id": 148,
+      "translation": "Wat is hij aan het doen?",
+      "word": "What is he doing?"
+    },
+    {
+      "id": 149,
+      "translation": "Dit is van mij, en dit is van jou",
+      "word": "This is mine, and this is yours"
+    },
+    {
+      "id": 150,
+      "translation": "Wat was je aan het doen?",
+      "word": "What were you doing?"
+    },
+    {
+      "id": 151,
+      "translation": "Ik wil niet naar school",
+      "word": "I don't want to go to school"
+    },
+    {
+      "id": 152,
+      "translation": "Dit is haar huis",
+      "word": "This is her house"
+    },
+    {
+      "id": 153,
+      "translation": "Dit zijn mijn boeken, die zijn van hem",
+      "word": "These are my books; those are his"
+    },
+    {
+      "id": 154,
+      "translation": "Dat is mijn school",
+      "word": "That is my school"
+    },
+    {
+      "id": 155,
+      "translation": "Ik heb geen geld",
+      "word": "I do not have any money"
+    },
+    {
+      "id": 156,
+      "translation": "Ik heb geen geld",
+      "word": "I have no money"
+    },
+    {
+      "id": 157,
+      "translation": "Ik heb geen geld",
+      "word": "I don't have any money"
+    },
+    {
+      "id": 158,
+      "translation": "Ik heb geen geld",
+      "word": "I don't have money"
+    },
+    {
+      "id": 159,
+      "translation": "Ik weet niet hoe laat het is",
+      "word": "I don't know what time it is"
+    },
+    {
+      "id": 160,
+      "translation": "Ik weet niet hoe laat het is",
+      "word": "I don't know what the time is"
+    },
+    {
+      "id": 161,
+      "translation": "Is er iets dat ik voor u kan doen?",
+      "word": "Is there anything that I can do for you?"
+    },
+    {
+      "id": 162,
+      "translation": "Wat ben je aan het doen?",
+      "word": "What are you doing?"
+    },
+    {
+      "id": 163,
+      "translation": "Wat ben je aan het doen?",
+      "word": "What do you do?"
+    },
+    {
+      "id": 164,
+      "translation": "Hoe gaat het met je?",
+      "word": "How are you?"
+    },
+    {
+      "id": 165,
+      "translation": "Ze is niet meer alleen",
+      "word": "She isn't alone anymore"
+    },
+    {
+      "id": 166,
+      "translation": "Hij is mijn broer, niet mijn vader",
+      "word": "He is my brother, not my father"
+    },
+    {
+      "id": 167,
+      "translation": "Ik hou van mijn huis",
+      "word": "I like my house"
+    },
+    {
+      "id": 168,
+      "translation": "Kan je dat doen? Ik denk het",
+      "word": "Can you do that? I think so"
+    },
+    {
+      "id": 169,
+      "translation": "Wie denk je dat ik ben?",
+      "word": "Who do you think I am?"
+    },
+    {
+      "id": 170,
+      "translation": "Hij houdt van haar",
+      "word": "He loves her"
+    },
+    {
+      "id": 171,
+      "translation": "Je weet heel goed wat ze wil",
+      "word": "You know very well what she wants"
+    },
+    {
+      "id": 172,
+      "translation": "Mijn huis is hier",
+      "word": "My house is here"
+    },
+    {
+      "id": 173,
+      "translation": "Van wie is dat boek?",
+      "word": "Whose book is that?"
+    },
+    {
+      "id": 174,
+      "translation": "Van wie is dat boek?",
+      "word": "Whose is that book?"
+    },
+    {
+      "id": 175,
+      "translation": "Ik denk dat hij niet komt",
+      "word": "I think he won't come"
+    },
+    {
+      "id": 176,
+      "translation": "Ik denk niet dat hij komt",
+      "word": "I think he won't come"
+    },
+    {
+      "id": 177,
+      "translation": "Ik denk niet dat hij komt",
+      "word": "I do not think that he will come"
+    },
+    {
+      "id": 178,
+      "translation": "Ik denk niet dat hij komt",
+      "word": "I don't think he will come"
+    },
+    {
+      "id": 179,
+      "translation": "Het is nu te laat om nog uit te gaan",
+      "word": "It is too late to go out now"
+    },
+    {
+      "id": 180,
+      "translation": "Dat huis is veel beter dan het deze",
+      "word": "That house is much better than this"
+    },
+    {
+      "id": 181,
+      "translation": "De hond is in het huis",
+      "word": "The dog is in the house"
+    },
+    {
+      "id": 182,
+      "translation": "Mij gaat het goed",
+      "word": "I'm doing fine"
+    },
+    {
+      "id": 183,
+      "translation": "Maar ik heb geen geld",
+      "word": "But I don't have money"
+    },
+    {
+      "id": 184,
+      "translation": "Maar ik heb geen geld",
+      "word": "But I have no money"
+    },
+    {
+      "id": 185,
+      "translation": "Ook dat is waar",
+      "word": "That's true as well"
+    },
+    {
+      "id": 186,
+      "translation": "Ook dat is waar",
+      "word": "That's true, too"
+    },
+    {
+      "id": 187,
+      "translation": "Ik weet wie ik ben",
+      "word": "I know who I am"
+    },
+    {
+      "id": 188,
+      "translation": "Je moet gaan",
+      "word": "You have to go"
+    },
+    {
+      "id": 189,
+      "translation": "Dat is alles",
+      "word": "That's all"
+    },
+    {
+      "id": 190,
+      "translation": "Ik weet het echt niet",
+      "word": "I really don't know"
+    },
+    {
+      "id": 191,
+      "translation": "Er moet iets zijn dat je kan doen",
+      "word": "There must be something you can do"
+    },
+    {
+      "id": 192,
+      "translation": "Het is beter voor je om het nu te doen",
+      "word": "It is better for you to do it now"
+    },
+    {
+      "id": 193,
+      "translation": "Ik weet niet wat ik nog meer kan doen",
+      "word": "I don't know what else to do"
+    },
+    {
+      "id": 194,
+      "translation": "Hij wil het geld",
+      "word": "He wants the money"
+    },
+    {
+      "id": 195,
+      "translation": "Ik weet niet wanneer hij hier zal zijn",
+      "word": "I don't know when he will be here"
+    },
+    {
+      "id": 196,
+      "translation": "Ik hou van mijn moeder",
+      "word": "I love my mum"
+    },
+    {
+      "id": 197,
+      "translation": "We hebben niet veel tijd",
+      "word": "There isn't much time"
+    },
+    {
+      "id": 198,
+      "translation": "We hebben niet veel tijd",
+      "word": "We don't have much time"
+    },
+    {
+      "id": 199,
+      "translation": "Is er iets dat ik kan doen?",
+      "word": "Is there anything I can do?"
+    },
+    {
+      "id": 200,
+      "translation": "Ik heb een hond",
+      "word": "I have a dog"
+    },
+    {
+      "id": 201,
+      "translation": "Ik weet dat geld niet alles is",
+      "word": "I know that money isn't everything"
+    },
+    {
+      "id": 202,
+      "translation": "Waar denk je aan?",
+      "word": "What are you thinking about?"
+    },
+    {
+      "id": 203,
+      "translation": "Het probleem is dat ik geen geld bij me heb",
+      "word": "The trouble is that I have no money with me"
+    },
+    {
+      "id": 204,
+      "translation": "Ik was op school",
+      "word": "I was at school"
+    },
+    {
+      "id": 205,
+      "translation": "Ik weet niet meer wat ik moet doen",
+      "word": "I don't know what to do anymore"
+    },
+    {
+      "id": 206,
+      "translation": "Hij kwam niet op tijd",
+      "word": "He didn't come on time"
+    },
+    {
+      "id": 207,
+      "translation": "Vandaag is je dag niet",
+      "word": "Today is not your day"
+    },
+    {
+      "id": 208,
+      "translation": "Hoe komt het dat je dit niet weet?",
+      "word": "How come you don't know this?"
+    },
+    {
+      "id": 209,
+      "translation": "Wat hij zei, is niet waar",
+      "word": "What he said is not true"
+    },
+    {
+      "id": 210,
+      "translation": "Waar een wil is, is een weg",
+      "word": "Where there's a will, there's a way"
+    },
+    {
+      "id": 211,
+      "translation": "Wat wil je met haar doen?",
+      "word": "What do you want to do to her?"
+    },
+    {
+      "id": 212,
+      "translation": "Hoe weet je dat?",
+      "word": "How do you know that?"
+    },
+    {
+      "id": 213,
+      "translation": "Ze houdt van hem",
+      "word": "She is in love with him"
+    },
+    {
+      "id": 214,
+      "translation": "Ik heb niets met hem van doen",
+      "word": "I have nothing to do with him"
+    },
+    {
+      "id": 215,
+      "translation": "Met mij gaat het ook goed",
+      "word": "I'm fine too"
+    },
+    {
+      "id": 216,
+      "translation": "Hoe gaat het met je vader?",
+      "word": "How's your father?"
+    },
+    {
+      "id": 217,
+      "translation": "Ik wil geen geld",
+      "word": "I do not want any money"
+    },
+    {
+      "id": 218,
+      "translation": "Het probleem is dat hij geen geld heeft",
+      "word": "The trouble is he has no money"
+    },
+    {
+      "id": 219,
+      "translation": "Hij is zo groot als zijn vader",
+      "word": "He is as tall as his father"
+    },
+    {
+      "id": 220,
+      "translation": "Ik heb nu geen tijd",
+      "word": "I don't have time now"
+    },
+    {
+      "id": 221,
+      "translation": "Er is hier niets",
+      "word": "There is nothing here"
+    },
+    {
+      "id": 222,
+      "translation": "Wat een groot huis heb je!",
+      "word": "What a big house you have!"
+    },
+    {
+      "id": 223,
+      "translation": "Ik ben een vrouw",
+      "word": "I am a woman"
+    },
+    {
+      "id": 224,
+      "translation": "Ik heb een probleem met mijn auto",
+      "word": "I have a problem with my car"
+    },
+    {
+      "id": 225,
+      "translation": "Ik weet niets over hem",
+      "word": "I don't know anything about him"
+    },
+    {
+      "id": 226,
+      "translation": "Vandaag is mijn dag niet",
+      "word": "Today is not my day"
+    },
+    {
+      "id": 227,
+      "translation": "Dit is een vriend van mij",
+      "word": "This is a friend of mine"
+    },
+    {
+      "id": 228,
+      "translation": "Dat was niet de eerste keer",
+      "word": "It wasn’t the first time"
+    },
+    {
+      "id": 229,
+      "translation": "Ik was te laat op school",
+      "word": "I was late to school"
+    },
+    {
+      "id": 230,
+      "translation": "Laat dat maar aan mij over",
+      "word": "Let me handle this"
+    },
+    {
+      "id": 231,
+      "translation": "Ik ben niet bang",
+      "word": "I'm not afraid"
+    },
+    {
+      "id": 232,
+      "translation": "Ik ben niet bang",
+      "word": "I am not afraid"
+    },
+    {
+      "id": 233,
+      "translation": "Wat is hij van plan?",
+      "word": "What is he up to?"
+    },
+    {
+      "id": 234,
+      "translation": "Is dit uw boek?",
+      "word": "Is this your book?"
+    },
+    {
+      "id": 235,
+      "translation": "Hij is mijn broer",
+      "word": "He is my brother"
+    },
+    {
+      "id": 236,
+      "translation": "Hij heeft een hond",
+      "word": "He has a dog"
+    },
+    {
+      "id": 237,
+      "translation": "Heeft hij een hond?",
+      "word": "Does he have a dog?"
+    },
+    {
+      "id": 238,
+      "translation": "Ik heb geen zin om uit te gaan",
+      "word": "I don't feel like going out"
+    },
+    {
+      "id": 239,
+      "translation": "Je was niet op school gisteren",
+      "word": "You were absent from school yesterday"
+    },
+    {
+      "id": 240,
+      "translation": "Ik ben niet aan het eten",
+      "word": "I am not eating"
+    },
+    {
+      "id": 241,
+      "translation": "Ik denk dat ik nu ga",
+      "word": "I guess I'll be going now"
+    },
+    {
+      "id": 242,
+      "translation": "Dat huis is veel beter dan dit",
+      "word": "That house is much better than this"
+    },
+    {
+      "id": 243,
+      "translation": "Ik moet naar huis gaan",
+      "word": "I have to go home"
+    },
+    {
+      "id": 244,
+      "translation": "Ik heb genoeg van hem",
+      "word": "I'm fed up with him"
+    },
+    {
+      "id": 245,
+      "translation": "Dit is te groot",
+      "word": "This is too big"
+    },
+    {
+      "id": 246,
+      "translation": "Hij heeft veel geld",
+      "word": "He has a lot of money"
+    },
+    {
+      "id": 247,
+      "translation": "Ik was deze morgen niet op tijd op school",
+      "word": "I wasn't on time for school this morning"
+    },
+    {
+      "id": 248,
+      "translation": "Wat hij zei was niet waar",
+      "word": "What he said was not true"
+    },
+    {
+      "id": 249,
+      "translation": "Ik wil niet alleen gaan",
+      "word": "I don't want to go alone"
+    },
+    {
+      "id": 250,
+      "translation": "Dit is te lang",
+      "word": "This is too long"
+    },
+    {
+      "id": 251,
+      "translation": "Ik had geen weet van zijn plan",
+      "word": "I was ignorant of his plan"
+    },
+    {
+      "id": 252,
+      "translation": "Hij zou in staat zijn dat te doen",
+      "word": "That he would be able to do"
+    },
+    {
+      "id": 253,
+      "translation": "Waar of niet waar?",
+      "word": "True or false?"
+    },
+    {
+      "id": 254,
+      "translation": "Deze hond is van mij",
+      "word": "This dog is mine"
+    },
+    {
+      "id": 255,
+      "translation": "Tegen die tijd is het al te laat",
+      "word": "By then it will already be too late"
+    },
+    {
+      "id": 256,
+      "translation": "Ik ben niet meer bang",
+      "word": "I'm not afraid any more"
+    },
+    {
+      "id": 257,
+      "translation": "Ik heb een oude auto",
+      "word": "I have an old car"
+    },
+    {
+      "id": 258,
+      "translation": "Hij heeft geen geld voor een nieuwe auto",
+      "word": "He does not have the money for buying a new car"
+    },
+    {
+      "id": 259,
+      "translation": "Het probleem is dat we niet veel geld hebben",
+      "word": "The problem is that we don't have a lot of money"
+    },
+    {
+      "id": 260,
+      "translation": "Dit is een hond",
+      "word": "This is a dog"
+    },
+    {
+      "id": 261,
+      "translation": "Ik heb geen tijd voor jullie",
+      "word": "I don't have time for you"
+    },
+    {
+      "id": 262,
+      "translation": "Ben je in de stad?",
+      "word": "Aren't you in town?"
+    },
+    {
+      "id": 263,
+      "translation": "Deze boeken zijn van mij en die boeken zijn van hem",
+      "word": "These books are mine and those books are his"
+    },
+    {
+      "id": 264,
+      "translation": "Heb je nu tijd?",
+      "word": "Are you free now?"
+    },
+    {
+      "id": 265,
+      "translation": "Ik ben graag alleen",
+      "word": "I like being alone"
+    },
+    {
+      "id": 266,
+      "translation": "Ik zal het doen",
+      "word": "I will"
+    },
+    {
+      "id": 267,
+      "translation": "Ik zal mijn leven leven, met of zonder haar",
+      "word": "I'm going to live my life, with or without her"
+    },
+    {
+      "id": 268,
+      "translation": "De vraag is of hij het kan doen of niet",
+      "word": "The question is whether he can do it or not"
+    },
+    {
+      "id": 269,
+      "translation": "Ik heb geen broer",
+      "word": "I don't have any brothers"
+    },
+    {
+      "id": 270,
+      "translation": "Het is te heet",
+      "word": "It's too hot"
+    },
+    {
+      "id": 271,
+      "translation": "Ik heb geen broer",
+      "word": "I don't have a brother"
+    },
+    {
+      "id": 272,
+      "translation": "Het is te heet",
+      "word": "It is too hot"
+    },
+    {
+      "id": 273,
+      "translation": "Ze zijn bang voor hem",
+      "word": "They're afraid of him"
+    },
+    {
+      "id": 274,
+      "translation": "Ik heb een vraag",
+      "word": "I have a question"
+    },
+    {
+      "id": 275,
+      "translation": "Ik heb een vraag",
+      "word": "I've got a question"
+    },
+    {
+      "id": 276,
+      "translation": "Het maakt me niet uit als het heet is",
+      "word": "I don't mind if it's hot"
+    },
+    {
+      "id": 277,
+      "translation": "Hij heeft te veel boeken",
+      "word": "He has too many books"
+    },
+    {
+      "id": 278,
+      "translation": "Het is alles wat ik wil doen",
+      "word": "It is all I want to do"
+    },
+    {
+      "id": 279,
+      "translation": "Ik zal gaan als hij terug is",
+      "word": "I will go when he comes back"
+    },
+    {
+      "id": 280,
+      "translation": "Hij was gisteren niet op school",
+      "word": "He was absent from school yesterday"
+    },
+    {
+      "id": 281,
+      "translation": "Dat is het huis waar hij woont",
+      "word": "That is the house where he lives"
+    },
+    {
+      "id": 282,
+      "translation": "Hij kan niet ouder dan ik zijn",
+      "word": "He cannot be older than I"
+    },
+    {
+      "id": 283,
+      "translation": "Hij kan niet ouder dan ik zijn",
+      "word": "He can't be older than me"
+    },
+    {
+      "id": 284,
+      "translation": "Weet je wat hij zei?",
+      "word": "Do you know what he said?"
+    },
+    {
+      "id": 285,
+      "translation": "Wie ben ik?",
+      "word": "Who am I?"
+    },
+    {
+      "id": 286,
+      "translation": "Ze heeft geen geld voor een nieuwe auto",
+      "word": "She does not have the money for buying a new car"
+    },
+    {
+      "id": 287,
+      "translation": "Waar is de school?",
+      "word": "Where is the school?"
+    },
+    {
+      "id": 288,
+      "translation": "Ik heb een vriend die van mij houdt",
+      "word": "I have a friend who loves me"
+    },
+    {
+      "id": 289,
+      "translation": "Ik heb een vriend die van mij houdt",
+      "word": "I have a boyfriend who loves me"
+    },
+    {
+      "id": 290,
+      "translation": "Ik wist niet dat hij er was",
+      "word": "I didn't know that he was there"
+    },
+    {
+      "id": 291,
+      "translation": "Wat was hij van plan?",
+      "word": "What was he up to?"
+    },
+    {
+      "id": 292,
+      "translation": "Ze had niet veel geld",
+      "word": "She didn't have much money"
+    },
+    {
+      "id": 293,
+      "translation": "Het maakt niet uit",
+      "word": "It doesn't matter"
+    },
+    {
+      "id": 294,
+      "translation": "Ik was daar op tijd, maar ik zag je niet!",
+      "word": "I was there on time, but I didn't see you!"
+    },
+    {
+      "id": 295,
+      "translation": "Je bent altijd te laat",
+      "word": "You are always late"
+    },
+    {
+      "id": 296,
+      "translation": "Waar is je school?",
+      "word": "Where is your school?"
+    },
+    {
+      "id": 297,
+      "translation": "Waar is je school?",
+      "word": "Where's your school?"
+    },
+    {
+      "id": 298,
+      "translation": "Wat denk jij van hem?",
+      "word": "What do you think of him?"
+    },
+    {
+      "id": 299,
+      "translation": "Het is nooit te laat om te leren",
+      "word": "It is never too late to learn"
+    },
+    {
+      "id": 300,
+      "translation": "De kamer van mijn vader is heel groot",
+      "word": "My father's room is very big"
+    },
+    {
+      "id": 301,
+      "translation": "Ik weet alleen dit",
+      "word": "I know only this"
+    },
+    {
+      "id": 302,
+      "translation": "Hij staat niet vroeg op",
+      "word": "He does not get up early"
+    },
+    {
+      "id": 303,
+      "translation": "Ik was geen goede moeder",
+      "word": "I was not a good mother"
+    },
+    {
+      "id": 304,
+      "translation": "Van wie is die auto?",
+      "word": "Whose car is this?"
+    },
+    {
+      "id": 305,
+      "translation": "Het maakt niet meer uit",
+      "word": "It doesn't matter anymore"
+    },
+    {
+      "id": 306,
+      "translation": "Deze zin is van mij",
+      "word": "This sentence is mine"
+    },
+    {
+      "id": 307,
+      "translation": "Naar waar gaan we?",
+      "word": "Where are we going?"
+    },
+    {
+      "id": 308,
+      "translation": "Hij is de vader van drie kinderen",
+      "word": "He is the father of three children"
+    },
+    {
+      "id": 309,
+      "translation": "Dit is mijn broer",
+      "word": "This is my brother"
+    },
+    {
+      "id": 310,
+      "translation": "Weet je zijn naam niet?",
+      "word": "Don't you know his name?"
+    },
+    {
+      "id": 311,
+      "translation": "Ik ben het helemaal met je eens",
+      "word": "I quite agree with you"
+    },
+    {
+      "id": 312,
+      "translation": "Het boek is groot",
+      "word": "The book is big"
+    },
+    {
+      "id": 313,
+      "translation": "Is er nog iets dat je moet doen vandaag?",
+      "word": "Is there anything you need to do today?"
+    },
+    {
+      "id": 314,
+      "translation": "Je zou niet alleen moeten gaan",
+      "word": "You should not go alone"
+    },
+    {
+      "id": 315,
+      "translation": "Het is alles of niets",
+      "word": "It's all or nothing"
+    },
+    {
+      "id": 316,
+      "translation": "We hebben veel tijd",
+      "word": "We have a lot of time"
+    },
+    {
+      "id": 317,
+      "translation": "Wat kan je nog meer doen?",
+      "word": "What else can you do?"
+    },
+    {
+      "id": 318,
+      "translation": "Ik heb nu wat geld",
+      "word": "I have a little money now"
+    },
+    {
+      "id": 319,
+      "translation": "Ik ben een oude man",
+      "word": "I'm an old man"
+    },
+    {
+      "id": 320,
+      "translation": "Gisteren was u niet op school",
+      "word": "You were absent from school yesterday"
+    },
+    {
+      "id": 321,
+      "translation": "Hoe gaat het vandaag met je?",
+      "word": "How are you today?"
+    },
+    {
+      "id": 322,
+      "translation": "Dat zou ik niet doen als ik jou was",
+      "word": "I wouldn't do that if I were you"
+    },
+    {
+      "id": 323,
+      "translation": "Ik zal het nooit meer doen",
+      "word": "I will not do it again"
+    },
+    {
+      "id": 324,
+      "translation": "Mijn vader houdt van mijn moeder",
+      "word": "My father loves my mother"
+    },
+    {
+      "id": 325,
+      "translation": "Wat is het probleem?",
+      "word": "Where is the problem?"
+    },
+    {
+      "id": 326,
+      "translation": "Dat was mijn zin!",
+      "word": "That's my line!"
+    },
+    {
+      "id": 327,
+      "translation": "Dit is een zin",
+      "word": "This is a sentence"
+    },
+    {
+      "id": 328,
+      "translation": "Zijn huis is drie keer zo groot als dat van mij",
+      "word": "His house is three times as big as mine"
+    },
+    {
+      "id": 329,
+      "translation": "Ik hou van mijn vrouw",
+      "word": "I love my wife"
+    },
+    {
+      "id": 330,
+      "translation": "Is er een probleem?",
+      "word": "Is there a problem?"
+    },
+    {
+      "id": 331,
+      "translation": "Ik was op zoek naar iets wat er niet was",
+      "word": "I was searching for something that didn't exist"
+    },
+    {
+      "id": 332,
+      "translation": "Mijn kamer is twee keer zo groot als die van hem",
+      "word": "My room is twice as big as his"
+    },
+    {
+      "id": 333,
+      "translation": "Ze vroeg hoe het met zijn vader ging",
+      "word": "She asked how his father was"
+    },
+    {
+      "id": 334,
+      "translation": "Er is een probleem dat je niet ziet",
+      "word": "There's a problem there that you don't see"
+    },
+    {
+      "id": 335,
+      "translation": "Zijn auto lijkt op die van mij",
+      "word": "His car is similar to mine"
+    },
+    {
+      "id": 336,
+      "translation": "Ik weet niet of ik genoeg geld heb",
+      "word": "I don't know if I have enough money"
+    },
+    {
+      "id": 337,
+      "translation": "Hoe laat is het?",
+      "word": "What time is it?"
+    },
+    {
+      "id": 338,
+      "translation": "Hij is zijn vriend",
+      "word": "He is his friend"
+    },
+    {
+      "id": 339,
+      "translation": "Je hoeft niet te gaan, als je dat niet wil",
+      "word": "If you don't want to go, you don't have to"
+    },
+    {
+      "id": 340,
+      "translation": "Er zijn veel boeken in mijn kamer",
+      "word": "There are many books in my room"
+    },
+    {
+      "id": 341,
+      "translation": "Je moet vroeg naar huis gaan",
+      "word": "You should go home early"
+    },
+    {
+      "id": 342,
+      "translation": "Je vader is groot",
+      "word": "Your father is tall"
+    },
+    {
+      "id": 343,
+      "translation": "Denk voor je spreekt",
+      "word": "Think before you speak"
+    },
+    {
+      "id": 344,
+      "translation": "Ik kan je hier niet alleen laten",
+      "word": "I can't leave you here alone"
+    },
+    {
+      "id": 345,
+      "translation": "Ik wil het niet nog eens doen",
+      "word": "I don't want to do it again"
+    },
+    {
+      "id": 346,
+      "translation": "Ik weet niet wat ik van nu af aan moet doen",
+      "word": "I don't know what to do from now on"
+    },
+    {
+      "id": 347,
+      "translation": "Ik hou van haar en zij houdt van mij",
+      "word": "I love her and she loves me"
+    },
+    {
+      "id": 348,
+      "translation": "Ik ken haar niet zo goed",
+      "word": "I don't know her very well"
+    },
+    {
+      "id": 349,
+      "translation": "Ik ben een jongen",
+      "word": "I am a boy"
+    },
+    {
+      "id": 350,
+      "translation": "Ik dacht niet dat het zo veel zou zijn",
+      "word": "I didn't think it would be that much"
+    },
+    {
+      "id": 351,
+      "translation": "Ik wil het niet zien",
+      "word": "I don't want to see it"
+    },
+    {
+      "id": 352,
+      "translation": "Hij is mijn vriend",
+      "word": "He is my friend"
+    },
+    {
+      "id": 353,
+      "translation": "De vraag is dit",
+      "word": "The question is this"
+    },
+    {
+      "id": 354,
+      "translation": "Hij is mijn vriend",
+      "word": "He's my friend"
+    },
+    {
+      "id": 355,
+      "translation": "Hij is een oude vriend van mij",
+      "word": "He is an old friend of mine"
+    },
+    {
+      "id": 356,
+      "translation": "Hij is een oude vriend van mij",
+      "word": "He's an old friend of mine"
+    },
+    {
+      "id": 357,
+      "translation": "Je moet het me leren",
+      "word": "You must teach it to me"
+    },
+    {
+      "id": 358,
+      "translation": "Je was mijn vriend",
+      "word": "You were my friend"
+    },
+    {
+      "id": 359,
+      "translation": "Ik ben van niets bang",
+      "word": "I'm not frightened of anything"
+    },
+    {
+      "id": 360,
+      "translation": "Hij gaf hem een boek",
+      "word": "He gave him a book"
+    },
+    {
+      "id": 361,
+      "translation": "Ik ben van niets bang",
+      "word": "I'm not afraid of anything"
+    },
+    {
+      "id": 362,
+      "translation": "En ik weet dat je het niet voor mij gedaan hebt",
+      "word": "And I know you didn't do it for me"
+    },
+    {
+      "id": 363,
+      "translation": "Ik ben hier al twee uur",
+      "word": "I have been here for two hours"
+    },
+    {
+      "id": 364,
+      "translation": "Het is voor één van mijn vrienden",
+      "word": "It's for a friend of mine"
+    },
+    {
+      "id": 365,
+      "translation": "Ik wist het niet, dat hij daar was",
+      "word": "I didn't know that he was there"
+    },
+    {
+      "id": 366,
+      "translation": "Wat moet er van haar worden?",
+      "word": "What will become of her?"
+    },
+    {
+      "id": 367,
+      "translation": "Zo is het genoeg",
+      "word": "That will do"
+    },
+    {
+      "id": 368,
+      "translation": "Ik ben blij dat ik er was",
+      "word": "I'm glad I was there"
+    },
+    {
+      "id": 369,
+      "translation": "Ik heb geen tijd voor jou",
+      "word": "I don't have time for you"
+    },
+    {
+      "id": 370,
+      "translation": "Wat wil je doen?",
+      "word": "What do you want to do?"
+    },
+    {
+      "id": 371,
+      "translation": "Ik ken haar niet",
+      "word": "I don't know her"
+    },
+    {
+      "id": 372,
+      "translation": "Vandaag gaat het mij goed",
+      "word": "I feel good today"
+    },
+    {
+      "id": 373,
+      "translation": "Wat is je naam?",
+      "word": "What is your name?"
+    },
+    {
+      "id": 374,
+      "translation": "Ik heb veel boeken",
+      "word": "I have many books"
+    },
+    {
+      "id": 375,
+      "translation": "Wat is je naam?",
+      "word": "What's your name?"
+    },
+    {
+      "id": 376,
+      "translation": "Ik heb veel boeken",
+      "word": "I have a lot of books"
+    },
+    {
+      "id": 377,
+      "translation": "Ze vroeg mij het te doen",
+      "word": "She asked me to do it"
+    },
+    {
+      "id": 378,
+      "translation": "Ik zou naar de film gaan, als ik tijd zou hebben",
+      "word": "I would go to the movies if I had the time"
+    },
+    {
+      "id": 379,
+      "translation": "Hier ben ik niet zeker van",
+      "word": "I'm not sure about this"
+    },
+    {
+      "id": 380,
+      "translation": "Hij heeft geen kinderen",
+      "word": "He has no children"
+    },
+    {
+      "id": 381,
+      "translation": "Hij heeft geen kinderen",
+      "word": "He hasn't any children"
+    },
+    {
+      "id": 382,
+      "translation": "Hij heeft geen kinderen",
+      "word": "He doesn't have any children"
+    },
+    {
+      "id": 383,
+      "translation": "Laat me niet alleen!",
+      "word": "Don't leave me by myself!"
+    },
+    {
+      "id": 384,
+      "translation": "Ik heb veel te doen vandaag",
+      "word": "I have a lot to do today"
+    },
+    {
+      "id": 385,
+      "translation": "Ik ken hem niet",
+      "word": "I don't know him"
+    },
+    {
+      "id": 386,
+      "translation": "Ik wil een vriend",
+      "word": "I want a friend"
+    },
+    {
+      "id": 387,
+      "translation": "Hoe komt het dat je zo goed Engels kan?",
+      "word": "How come you know English so well?"
+    },
+    {
+      "id": 388,
+      "translation": "Dit is de eerste keer",
+      "word": "This is the first time"
+    },
+    {
+      "id": 389,
+      "translation": "Dit huis is niet heel groot",
+      "word": "This house is not very big"
+    },
+    {
+      "id": 390,
+      "translation": "Dit is de jongen",
+      "word": "This is the boy"
+    },
+    {
+      "id": 391,
+      "translation": "Snel! We hebben niet veel tijd",
+      "word": "Be quick! We haven't much time"
+    },
+    {
+      "id": 392,
+      "translation": "Moet ik nu gaan?",
+      "word": "Do I have to go now?"
+    },
+    {
+      "id": 393,
+      "translation": "Waar is mijn hond?",
+      "word": "Where is my dog?"
+    },
+    {
+      "id": 394,
+      "translation": "Wat moet ik doen?",
+      "word": "What am I to do?"
+    },
+    {
+      "id": 395,
+      "translation": "Wat moet ik doen?",
+      "word": "What do I have to do?"
+    },
+    {
+      "id": 396,
+      "translation": "Waar gaat dit boek over?",
+      "word": "What is the book about?"
+    },
+    {
+      "id": 397,
+      "translation": "Ik weet waar je woont",
+      "word": "I know where you live"
+    },
+    {
+      "id": 398,
+      "translation": "Hij is geen jongen meer",
+      "word": "He's not a boy anymore"
+    },
+    {
+      "id": 399,
+      "translation": "Ik heb zin om uit te gaan vandaag",
+      "word": "I feel like going out today"
+    },
+    {
+      "id": 400,
+      "translation": "Het water is goed",
+      "word": "The water is good"
+    },
+    {
+      "id": 401,
+      "translation": "Hij is haar vriend",
+      "word": "He's her friend"
+    },
+    {
+      "id": 402,
+      "translation": "Hij is haar vriend",
+      "word": "He is her friend"
+    },
+    {
+      "id": 403,
+      "translation": "We hebben veel te doen",
+      "word": "We have lots of things to do"
+    },
+    {
+      "id": 404,
+      "translation": "Ik vroeg hem naar zijn naam",
+      "word": "I asked him what his name was"
+    },
+    {
+      "id": 405,
+      "translation": "Hoe gaat het met je broer?",
+      "word": "How's your brother?"
+    },
+    {
+      "id": 406,
+      "translation": "Hij is niet langer dan ik",
+      "word": "He is not taller than I"
+    },
+    {
+      "id": 407,
+      "translation": "De tijd gaat snel om",
+      "word": "Time is going by very quickly"
+    },
+    {
+      "id": 408,
+      "translation": "Ik ga naar school",
+      "word": "I go to school"
+    },
+    {
+      "id": 409,
+      "translation": "Hoe gaat het met je vrouw?",
+      "word": "How's your wife?"
+    },
+    {
+      "id": 410,
+      "translation": "Hoe gaat het met je vrouw?",
+      "word": "How's your wife doing?"
+    },
+    {
+      "id": 411,
+      "translation": "Is dit wat je wilde?",
+      "word": "Is this what you wanted?"
+    },
+    {
+      "id": 412,
+      "translation": "Om het even wie van u kan het doen",
+      "word": "Any of you can do it"
+    },
+    {
+      "id": 413,
+      "translation": "Wat denk je, wat zou ze gaan doen?",
+      "word": "What do you think she is going to do?"
+    },
+    {
+      "id": 414,
+      "translation": "Er is niemand in de kamer",
+      "word": "There's no one in the room"
+    },
+    {
+      "id": 415,
+      "translation": "Ik hou meer van jou dan jij van mij",
+      "word": "I love you more than you love me"
+    },
+    {
+      "id": 416,
+      "translation": "Hij zal over een uur terug zijn",
+      "word": "He will be back in an hour"
+    },
+    {
+      "id": 417,
+      "translation": "Ik ken u niet",
+      "word": "I don't know you"
+    },
+    {
+      "id": 418,
+      "translation": "Dit is geen zin",
+      "word": "This is not a sentence"
+    },
+    {
+      "id": 419,
+      "translation": "Vandaag is het niet jouw dag",
+      "word": "Today is not your day"
+    },
+    {
+      "id": 420,
+      "translation": "Als ik tijd had, ging ik naar de film",
+      "word": "I would go to the movies if I had the time"
+    },
+    {
+      "id": 421,
+      "translation": "Dat huis is groot",
+      "word": "That house is big"
+    },
+    {
+      "id": 422,
+      "translation": "Is dit van jou?",
+      "word": "Is this yours?"
+    },
+    {
+      "id": 423,
+      "translation": "Ik wil iets om te eten",
+      "word": "I want something to eat"
+    },
+    {
+      "id": 424,
+      "translation": "Hoe gaat het?",
+      "word": "How are you doing?"
+    },
+    {
+      "id": 425,
+      "translation": "Hij komt ook niet",
+      "word": "He isn't coming, either"
+    },
+    {
+      "id": 426,
+      "translation": "Haar vader is groot",
+      "word": "Her father is tall"
+    },
+    {
+      "id": 427,
+      "translation": "Ik kwam hier gisteren aan",
+      "word": "I arrived here yesterday"
+    },
+    {
+      "id": 428,
+      "translation": "Ik wil naar de stad gaan",
+      "word": "I want to go to the city"
+    },
+    {
+      "id": 429,
+      "translation": "Dit is mijn vriend",
+      "word": "This is my friend"
+    },
+    {
+      "id": 430,
+      "translation": "Wat wil je dat ik doe?",
+      "word": "What do you want me to do?"
+    },
+    {
+      "id": 431,
+      "translation": "Wat wil je dat ik doe?",
+      "word": "What would you have me do?"
+    },
+    {
+      "id": 432,
+      "translation": "Ik had geen tijd om te eten",
+      "word": "I had no time to eat"
+    },
+    {
+      "id": 433,
+      "translation": "De man die daar staat is mijn vader",
+      "word": "The man who is standing over there is my father"
+    },
+    {
+      "id": 434,
+      "translation": "Hoe gaat het met mijn vrouw?",
+      "word": "How's my wife doing?"
+    },
+    {
+      "id": 435,
+      "translation": "Hij woont hier niet meer",
+      "word": "He doesn't live here anymore"
+    },
+    {
+      "id": 436,
+      "translation": "Ik ben zo terug",
+      "word": "I will be back soon"
+    },
+    {
+      "id": 437,
+      "translation": "Ik ben zo terug",
+      "word": "I'll be back soon"
+    },
+    {
+      "id": 438,
+      "translation": "Ik ben zo terug",
+      "word": "I'll be back in a wink"
+    },
+    {
+      "id": 439,
+      "translation": "Ik ben zo terug",
+      "word": "I'll be right back"
+    },
+    {
+      "id": 440,
+      "translation": "Ik ben zo terug",
+      "word": "I'll be back in a jiffy"
+    },
+    {
+      "id": 441,
+      "translation": "Ik ben zo terug",
+      "word": "I'll be back right away"
+    },
+    {
+      "id": 442,
+      "translation": "Is hij al terug?",
+      "word": "Is he back already?"
+    },
+    {
+      "id": 443,
+      "translation": "Je kwam gisteren niet naar school",
+      "word": "You did not come to school yesterday"
+    },
+    {
+      "id": 444,
+      "translation": "Heb je vandaag iets te doen?",
+      "word": "Are you busy today?"
+    },
+    {
+      "id": 445,
+      "translation": "Iets is beter dan niets",
+      "word": "Something is better than nothing"
+    },
+    {
+      "id": 446,
+      "translation": "Ik heb een kat en een hond",
+      "word": "I have a cat and a dog"
+    },
+    {
+      "id": 447,
+      "translation": "Zij weet dat ik weet dat zij het weet",
+      "word": "She knows I know that she knows"
+    },
+    {
+      "id": 448,
+      "translation": "Denk jij dat hij op zijn vader lijkt?",
+      "word": "Do you think he resembles his father?"
+    },
+    {
+      "id": 449,
+      "translation": "Heb je twee boeken?",
+      "word": "Do you have two books?"
+    },
+    {
+      "id": 450,
+      "translation": "Hij was helemaal alleen in het huis",
+      "word": "He was all alone in the house"
+    },
+    {
+      "id": 451,
+      "translation": "Dit boek is van jou",
+      "word": "This book is yours"
+    },
+    {
+      "id": 452,
+      "translation": "Hij is groter dan ik",
+      "word": "He is taller than I"
+    },
+    {
+      "id": 453,
+      "translation": "Hij is groter dan ik",
+      "word": "He's taller than me"
+    },
+    {
+      "id": 454,
+      "translation": "Ik weet niet wanneer hij komt",
+      "word": "I don't know when he will come"
+    },
+    {
+      "id": 455,
+      "translation": "Kan je dat nog eens doen?",
+      "word": "Can you do that again?"
+    },
+    {
+      "id": 456,
+      "translation": "Er is iemand aan de deur",
+      "word": "Someone is at the door"
+    },
+    {
+      "id": 457,
+      "translation": "Als hij tijd heeft, zal hij komen",
+      "word": "If he has time, he will come"
+    },
+    {
+      "id": 458,
+      "translation": "Ik werk zo snel als ik kan",
+      "word": "I'm working as fast as I can"
+    },
+    {
+      "id": 459,
+      "translation": "Ik zal alles voor u doen",
+      "word": "I will do anything for you"
+    },
+    {
+      "id": 460,
+      "translation": "Het is hier erg heet",
+      "word": "It's very hot here"
+    },
+    {
+      "id": 461,
+      "translation": "Je wil het niet weten!",
+      "word": "You don't want to know it!"
+    },
+    {
+      "id": 462,
+      "translation": "Is dit jouw boek?",
+      "word": "Is this your book?"
+    },
+    {
+      "id": 463,
+      "translation": "Kom je of niet?",
+      "word": "Are you coming or not?"
+    },
+    {
+      "id": 464,
+      "translation": "Mijn vader heeft veel boeken",
+      "word": "My father has many books"
+    },
+    {
+      "id": 465,
+      "translation": "Ik weet waar hij woont",
+      "word": "I know where he lives"
+    },
+    {
+      "id": 466,
+      "translation": "Mijn vader heeft veel boeken",
+      "word": "My father has a lot of books"
+    },
+    {
+      "id": 467,
+      "translation": "Morgen is een nieuwe dag",
+      "word": "Tomorrow's a new day"
+    },
+    {
+      "id": 468,
+      "translation": "Het is te mooi om waar te zijn",
+      "word": "It's too good to be true"
+    },
+    {
+      "id": 469,
+      "translation": "Ik weet niet of hij een dokter is",
+      "word": "I don't know if he's a doctor"
+    },
+    {
+      "id": 470,
+      "translation": "Zijn huis is niet ver van hier",
+      "word": "His house is not far from here"
+    },
+    {
+      "id": 471,
+      "translation": "Kunnen we zo niet beter gaan?",
+      "word": "Hadn't we better be going soon?"
+    },
+    {
+      "id": 472,
+      "translation": "Dit is het boek waar je naar op zoek bent",
+      "word": "This is the book you are looking for"
+    },
+    {
+      "id": 473,
+      "translation": "Is dat wel goed?",
+      "word": "Is that okay?"
+    },
+    {
+      "id": 474,
+      "translation": "Hij zal voor altijd van haar houden",
+      "word": "He will love her forever"
+    },
+    {
+      "id": 475,
+      "translation": "Het is vandaag niet zo heet als gisteren",
+      "word": "It is not so hot today as yesterday"
+    },
+    {
+      "id": 476,
+      "translation": "Het is vandaag niet zo heet als gisteren",
+      "word": "It's not as hot today as it was yesterday"
+    },
+    {
+      "id": 477,
+      "translation": "Ik weet niet waar mijn horloge is",
+      "word": "I don't know where my watch is"
+    },
+    {
+      "id": 478,
+      "translation": "Je kan me niets laten doen dat ik niet wil doen",
+      "word": "You can't make me do anything I don't want to do"
+    },
+    {
+      "id": 479,
+      "translation": "Onze kinderen zijn op school, waar zijn die van u?",
+      "word": "Our children are at school; where are yours?"
+    },
+    {
+      "id": 480,
+      "translation": "Het maakt mij niet uit of hij wel of niet komt",
+      "word": "It makes no difference to me whether he comes or not"
+    },
+    {
+      "id": 481,
+      "translation": "Heb je iets te eten?",
+      "word": "Have you anything to eat?"
+    },
+    {
+      "id": 482,
+      "translation": "Dat is de vrouw die u wil zien",
+      "word": "That is the woman who wants to see you"
+    },
+    {
+      "id": 483,
+      "translation": "Ik denk dat het verhaal waar is",
+      "word": "I think the story is true"
+    },
+    {
+      "id": 484,
+      "translation": "Hij heeft nog een zoon",
+      "word": "He has another son"
+    },
+    {
+      "id": 485,
+      "translation": "Ik denk dat dat werkt",
+      "word": "I guess that works"
+    },
+    {
+      "id": 486,
+      "translation": "We leren niet voor het leven, maar voor school",
+      "word": "Not for life, but for school do we learn"
+    },
+    {
+      "id": 487,
+      "translation": "Ik zal moeilijk voor je zijn om Engels te spreken",
+      "word": "It will be hard for you to speak English"
+    },
+    {
+      "id": 488,
+      "translation": "Het is niet zo ver",
+      "word": "It's not so far"
+    },
+    {
+      "id": 489,
+      "translation": "Ze hebben een groot huis",
+      "word": "They have a large house"
+    },
+    {
+      "id": 490,
+      "translation": "Ik zal het hem vragen als hij komt",
+      "word": "I'll ask him if he will come"
+    },
+    {
+      "id": 491,
+      "translation": "Ze was bang voor de hond",
+      "word": "She was afraid of the dog"
+    },
+    {
+      "id": 492,
+      "translation": "Dat is mijn kat",
+      "word": "That's my cat"
+    },
+    {
+      "id": 493,
+      "translation": "Over een uur kom ik bij je",
+      "word": "I will come to you in an hour"
+    },
+    {
+      "id": 494,
+      "translation": "Ik ben ouder dan je",
+      "word": "I'm older than you"
+    },
+    {
+      "id": 495,
+      "translation": "Ik wil gewoon een vriend van je zijn, niets meer",
+      "word": "I just want to be your friend, nothing more"
+    },
+    {
+      "id": 496,
+      "translation": "Hij is groter dan zijn vader",
+      "word": "He is taller than his father"
+    },
+    {
+      "id": 497,
+      "translation": "Ik vind niet dat ze op haar moeder lijkt",
+      "word": "I don't think she takes after her mother"
+    },
+    {
+      "id": 498,
+      "translation": "Komt alles goed met je?",
+      "word": "Are you going to be OK?"
+    },
+    {
+      "id": 499,
+      "translation": "Kan je het zien?"
+    }
+  ]

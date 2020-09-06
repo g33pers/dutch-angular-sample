@@ -5,6 +5,7 @@ import { RouterModule } from '@angular/router';
 import { TabMenuModule } from 'primeng/tabmenu';
 import { CardModule } from 'primeng/card';
 
+import { CoreModule } from './core/core.module';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { AboutModule } from './about/about.module';
@@ -21,7 +22,8 @@ import { WordsModule } from './words/words.module';
     WordsModule,
     TabMenuModule,
     CardModule,
-    RouterModule
+    RouterModule,
+    CoreModule
   ],
   providers: [],
   bootstrap: [AppComponent]

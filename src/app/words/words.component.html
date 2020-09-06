@@ -4,6 +4,8 @@
 virtual scroll / sort / striped
 <br/>
 with button to hear audio
+<br/>
+{{words.length}}
 <p-table #dt [value]="words" styleClass="p-datatable-striped" [scrollable]="true" scrollHeight="250px"
 [virtualScroll]="true" [virtualRowHeight]="34" [globalFilterFields]="['word','translation']">
     <ng-template pTemplate="caption">
