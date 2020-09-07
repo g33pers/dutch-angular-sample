@@ -1,11 +1,13 @@
-<p>words works!</p>
-<p> (scrollable) table of user's wordlist including whether learned - in-progress or to learn, word strength, time sinc last seen, time 'til revision due - sortable by all, plus translation and search</p>
-<br/>
-virtual scroll / sort / striped
-<br/>
-with button to hear audio
-<br/>
-{{words.length}}
+<p>
+    A list of words / phrases to learn in a demo language learning app based on word frequency in target language.<br/>
+    A user can see all words to learn, which words have been learned (and the predicted strength in memory based on a modifed version of the Super Memo 2 algorithm) and which words are currently being learned.
+</p>
+<p>
+    Mock data is stored in a json file and loaded via a shared core data service.<br>
+    Using a PrimeNG table, words can be sorted and searched. Virtual scrolling is in place to optimise and remove jankiness.
+</p>
+<p> Words to learn: 500, Words learned: 25, Words being learned: 10, Words due for revision: 10</p>
+
 <p-table #dt [value]="words" styleClass="p-datatable-striped" [scrollable]="true" scrollHeight="250px"
 [virtualScroll]="true" [virtualRowHeight]="34" [globalFilterFields]="['word','translation']">
     <ng-template pTemplate="caption">
