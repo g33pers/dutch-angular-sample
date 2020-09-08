@@ -38,7 +38,7 @@
     <ng-template pTemplate="body" let-word>
         <tr>
             <td>{{ word.id + 1 }}</td>
-            <td><p-button *ngIf="word.id < 12" (click)="playAudio( word.id )" icon="pi pi-play" styleClass="p-button-sm p-button-rounded"></p-button></td>
+            <td><p-button *ngIf="word.id < 13" (click)="playAudio( word.id )" icon="pi pi-play" styleClass="p-button-sm p-button-rounded"></p-button></td>
             <td>{{ word.translation }}</td>
             <td>{{ word.word }}</td>
             <td>{{ word.learning ? 'in progress' : (word.strength ? 'learned' : '-') }}</td>
