@@ -10,6 +10,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { AboutModule } from './about/about.module';
 import { WordsModule } from './words/words.module';
+import { ReviewModule } from './review/review.module';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { WordsModule } from './words/words.module';
     AppRoutingModule,
     AboutModule,
     WordsModule,
+    ReviewModule,
     TabMenuModule,
     CardModule,
     RouterModule,

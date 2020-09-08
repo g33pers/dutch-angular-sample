@@ -4,6 +4,6 @@ export interface IWord {
     id: number;
     strength?: number;
     learning?: boolean;
-    lastPracticed?: Date;
-    revisionDue?: Date;
+    lastPracticed?: string;
+    revisionDue?: string;
 }

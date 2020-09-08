@@ -13,3 +13,19 @@ body{
     max-width: 1024px;
     margin: 0 auto;
 }
+
+.p-menuitem-icon .badge {
+	background: rgba(144, 202, 249, 0.92);
+	color: #212121;
+    border-color: transparent;
+    position: absolute;
+	border-radius: 100%;
+	min-width: 15px;
+	height: 15px;
+	text-align: center;
+	line-height: 15px;
+	font-size: 11px;
+    right: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+}
