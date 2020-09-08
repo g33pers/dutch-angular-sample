@@ -1,9 +1,12 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
 
 import { Table } from 'primeng/table';
+import { Howl } from 'howler';
 
 import { DataService } from '../core/data.service';
 import { IWord } from '../shared/interfaces';
+
+
 
 @Component({
   selector: 'app-words',
@@ -21,7 +24,8 @@ export class WordsComponent implements OnInit {
   constructor( private dataService: DataService ) { }
   //constructor( ) { }
 
-  
+  showInfo: boolean = false;
+ 
 
   ngOnInit(): void {
 
@@ -34,5 +38,19 @@ export class WordsComponent implements OnInit {
     });
 
 
+  }
+
+  toggleInfo = ():void => {
+    this.showInfo = !this.showInfo;
+
+    console.log( "..." , this.showInfo )
+  }
+
+  playAudio = ( id ):void => {
+    const sound = new Howl({
+      src: ['assets/audio/' + id + '_1587389047125_' + (Math.random() > 0.5 ? 'm' : 'f') + '1.mp3']
+    });
+    
+    sound.play();
   }
 }

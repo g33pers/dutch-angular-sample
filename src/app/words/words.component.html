@@ -1,12 +1,18 @@
-<p>
-    A list of words / phrases to learn in a demo language learning app based on word frequency in target language.<br/>
-    A user can see all words to learn, which words have been learned (and the predicted strength in memory based on a modifed version of the Super Memo 2 algorithm) and which words are currently being learned.
-</p>
-<p>
-    Mock data is stored in a json file and loaded via a shared core data service.<br>
-    Using a PrimeNG table, words can be sorted and searched. Virtual scrolling is in place to optimise and remove jankiness.
-</p>
 <p> Words to learn: 500, Words learned: 25, Words being learned: 10, Words due for revision: 10</p>
+
+<p-button (click)="toggleInfo()" styleClass="p-button-sm p-button-info">{{ showInfo ? 'Hide' : 'Show' }} page details</p-button>
+
+<div *ngIf="showInfo" class="p-shadow-3 info-panel">
+    <p>
+        A list of words / phrases to learn in a demo language learning app based on word frequency in target language.<br/>
+        A user can see all words to learn, which words have been learned (and the predicted strength in memory based on a modifed version of the Super Memo 2 algorithm) and which words are currently being learned.
+    </p>
+    <p>
+        Mock data is stored in a json file and loaded via a shared core data service.<br>
+        Using a PrimeNG table, words can be sorted and searched. Virtual scrolling is in place to optimise and remove jankiness.
+    </p>
+</div>
+
 
 <p-table #dt [value]="words" styleClass="p-datatable-striped" [scrollable]="true" scrollHeight="250px"
 [virtualScroll]="true" [virtualRowHeight]="34" [globalFilterFields]="['word','translation']">
@@ -19,16 +25,26 @@
     </ng-template>
     <ng-template pTemplate="header">
         <tr>
-            <th pSortableColumn="word">Word<p-sortIcon field="word"></p-sortIcon></th>
-            <th pSortableColumn="translation">Translation<p-sortIcon field="translation"></p-sortIcon></th>
-            <th>Learned</th>
+            <th pSortableColumn="id">#<p-sortIcon field="id"></p-sortIcon></th>
+            <th></th>
+            <th >Word</th>
+            <th >Translation</th>
+            <th pSortableColumn="learning">Status<p-sortIcon field="learning"></p-sortIcon></th>
+            <th pSortableColumn="strength">Word strength<p-sortIcon field="strength"></p-sortIcon></th>
+            <th pSortableColumn="revisionDue">Revision due<p-sortIcon field="revisionDue"></p-sortIcon></th>
+            <th pSortableColumn="lastPracticed">Last practiced<p-sortIcon field="lastPracticed"></p-sortIcon></th>
         </tr>
     </ng-template>
     <ng-template pTemplate="body" let-word>
         <tr>
-            <td>{{ word.word }}</td>
+            <td>{{ word.id + 1 }}</td>
+            <td><p-button *ngIf="word.id < 12" (click)="playAudio( word.id )" icon="pi pi-play" styleClass="p-button-sm p-button-rounded"></p-button></td>
             <td>{{ word.translation }}</td>
-            <td>{{ word.learned }}</td>
+            <td>{{ word.word }}</td>
+            <td>{{ word.learning ? 'in progress' : (word.strength ? 'learned' : '-') }}</td>
+            <td>{{ word.strength ? ( word.strength >= 8 ? 'strong' : ( word.strength >= 5 ? 'medium' : 'weak' ) ) : '-' }}</td>
+            <td>{{ word.revisionDue ? (word.revisionDue | date) : '-' }}</td>
+            <td>{{ word.lastPracticed ? (word.lastPracticed | date) : '-' }}</td>
         </tr>
     </ng-template>
     <ng-template pTemplate="footer" let-columns="columns">

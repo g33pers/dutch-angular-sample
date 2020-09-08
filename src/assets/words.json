@@ -2,92 +2,161 @@
     {
       "id": 0,
       "translation": "Ik ben het",
-      "word": "It's me"
+      "word": "It's me",
+      "strength": 10,
+      "learning": false,
+      "lastPracticed": "1599378099037",
+      "revisionDue": "1599464499037"
+
     },
     {
       "id": 1,
       "translation": "Het is een van mij",
-      "word": "It's one of mine"
+      "word": "It's one of mine",
+      "strength": 8,
+      "learning": false,
+      "lastPracticed": "1599378099037",
+      "revisionDue": "1599464499037"
     },
     {
       "id": 2,
       "translation": "Wat is het?",
-      "word": "What is it?"
+      "word": "What is it?",
+      "strength": 8,
+      "learning": false,
+      "lastPracticed": "1599378099037",
+      "revisionDue": "1599637299037"
     },
     {
       "id": 3,
       "translation": "Ik kan het",
-      "word": "I can do it"
+      "word": "I can do it",
+      "strength": 10,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599637299037"
     },
     {
       "id": 4,
       "translation": "Zo is het niet",
-      "word": "It is not so"
+      "word": "It is not so",
+      "strength": 5,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599637299037"
     },
     {
       "id": 5,
       "translation": "Wat is dat?",
-      "word": "What is it?"
+      "word": "What is it?",
+      "strength": 10,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599810099037"
     },
     {
       "id": 6,
       "translation": "Wat is dat?",
-      "word": "What's that?"
+      "word": "What's that?",
+      "strength": 3,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599810099037"
     },
     {
       "id": 7,
       "translation": "Ik weet het niet",
-      "word": "I don't know"
+      "word": "I don't know",
+      "strength": 5,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599810099037"
     },
     {
       "id": 8,
       "translation": "Ik weet het niet",
-      "word": "I dinnae ken"
+      "word": "I dinnae ken",
+      "strength": 2,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599896499037"
     },
     {
       "id": 9,
       "translation": "Wat heb ik?",
-      "word": "What do I have?"
+      "word": "What do I have?",
+      "strength": 1,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599982899037"
     },
     {
       "id": 10,
       "translation": "Ik weet niet wat dat is",
-      "word": "I don't know what it is"
+      "word": "I don't know what it is",
+      "strength": 9,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599896499037"
     },
     {
       "id": 11,
       "translation": "Ik weet niet wat dat is",
-      "word": "I don't know what that is"
+      "word": "I don't know what that is",
+      "strength": 10,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1600069299037"
     },
     {
       "id": 12,
       "translation": "Hij weet het niet",
-      "word": "He does not know"
+      "word": "He does not know",
+      "strength": 4,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1600069299037"
     },
     {
       "id": 13,
       "translation": "Dat is niet waar",
-      "word": "That's not true"
+      "word": "That's not true",
+      "strength": 5,
+      "learning": false,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599896499037"
     },
     {
       "id": 14,
       "translation": "Dat is niet waar",
-      "word": "It is not so"
+      "word": "It is not so",
+      "learning": true,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599464499037"
     },
     {
       "id": 15,
       "translation": "Dat is niet waar",
-      "word": "That is not true"
+      "word": "That is not true",
+      "learning": true,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599464499037"
     },
     {
       "id": 16,
       "translation": "Ik wil het niet meer",
-      "word": "I don't want it anymore"
+      "word": "I don't want it anymore",
+      "learning": true,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599810099037"
     },
     {
       "id": 17,
       "translation": "Het kan niet waar zijn",
-      "word": "It cannot be true"
+      "word": "It cannot be true",
+      "learning": true,
+      "lastPracticed": "1599464499037",
+      "revisionDue": "1599982899037"
     },
     {
       "id": 18,

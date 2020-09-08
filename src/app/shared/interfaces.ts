@@ -3,7 +3,7 @@ export interface IWord {
     translation: string;
     id: number;
     strength?: number;
-    learned?: boolean;
+    learning?: boolean;
     lastPracticed?: Date;
     revisionDue?: Date;
 }
