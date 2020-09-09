@@ -1,29 +1,17 @@
-Ik weet niet wat dat is	<br/>
-I don't know what that is<br/>
-play audio<br/>
-hide
+How do you say <strong>"{{word.word}}"</strong> in Dutch?
+<br/>
+<div *ngIf="showing"><strong>"{{word.translation}}"</strong></div>
+<button (click)="playAudio( )">Listen</button><br/>
+<button *ngIf="showing" (click)="hideTranslation( )">Test now</button><br/>
 
-<!--<p>review works!</p>
-<div>
-    {sourceArray.length}
-      {options.showAnswer ? 'look / cover / write' : 'translate / write'}
-      <p><strong>CombineElements:</strong> {data.word}</p>
-      {options.showAnswer && showPhase ? (
-        <div>
-          <div>{data.translation}</div>
-          <p><a href="#" onClick={ () => { PlayAudio.play( data.id )}} >play word</a></p>
-          <button onClick={ () => { setShowPhase( () => false)}}>hide</button>
-        </div>
-      ) : (
-        <div>
-          {answersArray}<br/>
-          {answersProcessedArray}
-          <p>this is where the rearranging activity bits and bobs goes</p>
-          {optionsArray}
-          <hr/>
-          {hintsEnabled && allHintsEnabled && <button onClick={needsHint}>get hint</button> }
-          {options.showAnswer && <p><a href="#" onClick={ () => { PlayAudio.play( data.translation )}} >play audio</a></p>}
-        </div>
-      )}
+<div *ngIf="!showing">
+    <button *ngFor='let answer of answersArray' (click)="removeOption( answer )">{{sourceArray[answer]}} </button>
+</div>
 
-    </div>-->
+<div *ngIf="!showing">
+    <button *ngFor='let option of optionsArray' (click)="addOption( option.index )">{{option.label}}</button>
+</div>
+
+<div *ngIf="disabled">
+    <button (click)="generateQuestion( demoWords[ currentWord ] )">Next question</button>
+</div>
