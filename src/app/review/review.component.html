@@ -1,17 +1,25 @@
-How do you say <strong>"{{word.word}}"</strong> in Dutch?
-<br/>
-<div *ngIf="showing"><strong>"{{word.translation}}"</strong></div>
-<button (click)="playAudio( )">Listen</button><br/>
-<button *ngIf="showing" (click)="hideTranslation( )">Test now</button><br/>
+<div class="p-shadow-3 info-panel">
+    How do you say <strong>"{{word.word}}"</strong> in Dutch?
+    <br/><br/>
+    <div *ngIf="showing && word"><strong>"{{word.translation}}"</strong></div><br/>
+    <p-button label="Listen" icon="pi pi-play" iconPos="left" (click)="playAudio( )" class="p-button-sm"></p-button><br/><br/>
+</div>
+
+<hr/>
+
+<p-button *ngIf="showing" label="Test now" (click)="hideTranslation()" styleClass="p-button-lg p-button-success"></p-button><br/>
 
 <div *ngIf="!showing">
-    <button *ngFor='let answer of answersArray' (click)="removeOption( answer )">{{sourceArray[answer]}} </button>
+    <span *ngFor='let answer of answersArray'><p-button  label="{{sourceArray[answer]}}" (click)="removeOption( answer )" styleClass="p-button-sm p-button-secondary"></p-button>&nbsp;</span><br/><br/>
 </div>
 
 <div *ngIf="!showing">
-    <button *ngFor='let option of optionsArray' (click)="addOption( option.index )">{{option.label}}</button>
+    <span *ngFor='let option of optionsArray'><p-button label="{{option.label}}" (click)="addOption( option.index )" styleClass="p-button-sm p-button-info"></p-button>&nbsp;</span><br/>
 </div>
 
 <div *ngIf="disabled">
-    <button (click)="generateQuestion( demoWords[ currentWord ] )">Next question</button>
+    <hr/>
+    <p-button label="Next question" (click)="generateQuestion( demoWords[ currentWord ] )" styleClass="p-button-lg p-button-success"></p-button><br/>
 </div>
+
+<p-toast></p-toast>

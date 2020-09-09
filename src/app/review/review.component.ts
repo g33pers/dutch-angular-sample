@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 import { Howl } from 'howler';
+import {MessageService} from 'primeng/api';
 
 import { DataService } from '../core/data.service';
 import { IWord } from '../shared/interfaces';
@@ -8,7 +9,8 @@ import { IWord } from '../shared/interfaces';
 @Component({
   selector: 'app-review',
   templateUrl: './review.component.html',
-  styleUrls: ['./review.component.scss']
+  styleUrls: ['./review.component.scss'],
+  providers: [MessageService]
 })
 export class ReviewComponent implements OnInit {
 
@@ -21,7 +23,7 @@ export class ReviewComponent implements OnInit {
   currentWord: number = 0;
   showing:boolean = true;
 
-  constructor( private dataService: DataService ) { }
+  constructor( private dataService: DataService, private messageService: MessageService ) { }
 
   ngOnInit(): void {
     this.generateQuestion( this.demoWords[ this.currentWord ])
@@ -106,14 +108,15 @@ export class ReviewComponent implements OnInit {
     const correct = ( myAnswerString.toLowerCase() === this.word.translation.toLowerCase() );
 
     if( correct ){
+      //disabled state adds a reset button with icon
       this.disabled = true;
 
       //play audio
       this.playAudio()
 
       //toast
+      this.messageService.add({severity:'success', summary:'Well done!', detail: '"' + this.word.translation + '" is correct'});
 
-      //disabled state adds a reset button with icon
       this.currentWord = ( this.currentWord === 0 ? 1 : 0 );
     }
   }
